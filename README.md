@@ -2,7 +2,7 @@
 [Complete Guide | Run this project on your computer](https://github.com/danialafjeh/Run-My-Projects-Locally)<br>
 Projects are numbered in development order. Higher numbers represent newer projects that introduce new backend tools, concepts, and increasing levels of complexity throughout my learning journey.
 
-# Image Processor
+# Image Processor Website
 
 A Django-MVT Image Processing application designed primarily as a practical learning project for implementing and understanding **Celery** and asynchronous background task processing.
 

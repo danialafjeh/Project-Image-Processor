@@ -5,7 +5,7 @@
 
 Complexity : Intermediate
 
-A Django-MVT Image Processing application designed primarily as a practical learning project for implementing and understanding **Celery** and asynchronous background task processing.
+A Django-MVT Image Processing web application with frontend and backend designed primarily as a practical learning project for implementing and understanding **Celery** and asynchronous background task processing.
 
 The application allows users to upload images and perform four different image processing operations. Each processing operation is handled asynchronously by a Celery worker, with Redis acting as the message broker and PostgreSQL used for persistent data storage.
 
